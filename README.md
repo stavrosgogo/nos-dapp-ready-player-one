@@ -1,5 +1,5 @@
-## Dodgy Game
+## Ready player one
 
 It's a game built in React ¯\\_(ツ)_/¯
 
-[Check it out.](http://brandonstilson.com/dodgygame)"# nos-dapp-ready-player-one" 
+[Check it out.]"# nos-dapp-ready-player-one" 
